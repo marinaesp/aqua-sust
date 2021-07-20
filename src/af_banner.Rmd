@@ -1,0 +1,17 @@
+---
+title: "OHI-Norway header"
+output: html_fragment
+---
+<p align = "center">
+[![ohi logo](svolvar.png)](http://ohi-science.org)
+<br>
+[Coastal barometer blog](https://kystbarometeret.com) |
+[Ocean health index](http://www.oceanhealthindex.org) |
+</p>
+
+
+
+
+
+
+
